@@ -10,8 +10,8 @@
 
 ## 📸 System Interface
 <div align="center">
-  <img src="./assets/dashboard.png" alt="RadarPro Compliance Dashboard" width="800">
-  <p><em>Figure 1: The Compliance Reporting Dashboard (UI Mockup)</em></p>
+  <img src="./assets/2025-11-24 04_37_59-.png" alt="RadarPro Compliance Dashboard" width="800">
+  <p><em>Figure 1: The Compliance Reporting Generator</em></p>
 </div>
 
 ---
